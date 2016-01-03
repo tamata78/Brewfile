@@ -4,6 +4,10 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask clipmenu
+cask flux
+cask google-chrome
+cask iterm2
 
 ## rcmdnk/file
 tap rcmdnk/file
