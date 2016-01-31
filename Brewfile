@@ -31,6 +31,7 @@ brew lua
 brew mysql
 brew openssl
 brew pcre
+brew peco
 brew pkg-config
 brew postgresql
 brew python3
@@ -38,7 +39,8 @@ brew rbenv
 brew readline
 brew ruby-build
 brew sqlite
-brew vim --with-lua --override-system-vi --with-python3
+brew the_silver_searcher
+brew vim --with-lua --override-system-vi --with-python3 --with-lua --override-system-vi --with-python3
 brew vimpager
 brew w3m
 brew xz
