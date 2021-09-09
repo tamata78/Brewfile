@@ -1,4 +1,4 @@
-# Brewfile
+# Barewfile
 
 It moves apps and libraries to Mac automatically by Homebrew
 
@@ -6,8 +6,14 @@ It moves apps and libraries to Mac automatically by Homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-# rebuilding
+# library install
 
 ```
-$ brew file install Brewfile
+$ brew bundle
 ```
+# library dump
+
+```
+$ brew bundle dump # output Brewfile
+```
+
